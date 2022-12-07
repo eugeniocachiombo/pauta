@@ -2,7 +2,7 @@
 
 	function getConexao(){
 		
-	/*
+	
 		try {
 
 		$pdo = new PDO("sqlite:../BD2.db");
@@ -12,10 +12,10 @@
 		} catch (Exception $e) {
 		
 		echo "Erro de conexao: ".$e->getMessage();
-		}*/
+		}
 
 
-		$host = "mysql:host=localhost;dbname=escola;charset=utf8";
+		/*$host = "mysql:host=localhost;dbname=escola;charset=utf8";
 		$user = "root";
 		$senha = "";
 	
@@ -28,7 +28,7 @@
 		} catch (Exception $e) {
 		
 		echo "Erro de conexao: ".$e->getMessage();
-		}
+		}*/
 
 		
 		
